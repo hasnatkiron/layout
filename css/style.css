@@ -1,0 +1,33 @@
+.header{
+
+	background-color: red;
+}
+
+.container{
+	width: 1200px;
+	overflow: hidden;
+}
+
+.blog{
+	width: 60%;
+	float: left;
+	background-color: green;
+}
+
+h1{
+	padding: 20px 50px;
+}
+p{
+	padding: 30px 40px;
+	color: #fff;
+}
+.contact{
+	width: 35%;
+	float: right;
+	height: 150px;
+	background-color: blue;
+}
+
+.footer{
+	background-color: black;
+}
